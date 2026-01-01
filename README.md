@@ -1,5 +1,5 @@
-# ai-assisted-Support-ticketing-system
-🎫 AI-Assisted Ticket Processing System
+# AI-assisted-Support-ticketing-system 
+🎫 AI-Assisted Ticket Processing System(Python Fast API, Celerey , Redis with Docker Containeraized)
 
 A scalable, async, human-in-the-loop ticket processing system built with FastAPI, PostgreSQL, Redis, Celery, and AI services.
 
