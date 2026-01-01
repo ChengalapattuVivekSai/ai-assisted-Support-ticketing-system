@@ -5,7 +5,7 @@ A scalable, async, human-in-the-loop ticket processing system built with FastAPI
 
 This project demonstrates clean system design, clear async boundaries, and enterprise-ready architecture suitable for banking and support workflows.
 
-📌 Problem Statement
+📌 Problem Statements
 
 Customer support tickets often involve:
 
